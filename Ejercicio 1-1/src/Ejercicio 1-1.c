@@ -29,6 +29,7 @@ int main(void) {
 
 		printf("Ingrese otro numero \n");
 		scanf("%d",&numeroDos);
+		printf("PRINT DE PRUEBA");
 
 	    resultadoSuma=numeroUno + numeroDos;
 

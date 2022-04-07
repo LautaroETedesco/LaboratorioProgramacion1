@@ -37,7 +37,7 @@ int main(void)
     printf("Ingrese el segundo numero: ");
     scanf("%d",&numeroDos);
 
-    printf("ingrese el tercer numero: ");
+    printf("ingrese el tercerardo numero: ");
     scanf("%d",&numeroTres);
 
     if(numeroUno>numeroDos && numeroUno<numeroTres)
